@@ -188,7 +188,7 @@ const Cart = ({ cartItems, onRemoveFromCart, onCloseCart, onCheckout }) => {
   );
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-end">
+    <div className="fixed inset-0 bg-pink-200 bg-opacity-50 z-50 flex justify-end">
       <div className="bg-white w-full max-w-md h-full shadow-lg p-6 overflow-y-auto relative">
         <button
           onClick={onCloseCart}
