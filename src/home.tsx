@@ -919,7 +919,7 @@ const DaisyFloristWebsite = () => {
               <input
                 type="text"
                 placeholder="Search flowers..."
-                className="w-full pl-10 pr-4 py-3 border border-gray-200 rounded-4xl focus:ring-2 focus:ring-pink-500 focus:border-transparent"
+                className="w-fit pl-10 pr-4 py-3 border border-gray-200 rounded-4xl focus:ring-2 focus:ring-pink-500 focus:border-transparent"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
