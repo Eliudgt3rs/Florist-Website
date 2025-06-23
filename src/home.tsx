@@ -311,8 +311,7 @@ const DaisyFloristWebsite = () => {
       description:
         "Elegant white lilies symbolizing purity and rebirth. Perfect for special occasions and ceremonies.",
       image:
-        "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=400&h=300&fit=crop",
-      rating: 5,
+        "WhiteLillies.jpeg",
     },
     {
       id: 3,
