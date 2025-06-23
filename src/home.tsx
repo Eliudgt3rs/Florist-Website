@@ -847,14 +847,14 @@ const DaisyFloristWebsite = () => {
             <div className="flex items-center gap-4">
               <a
                 href="tel:+254719790026"
-                className="flex items-center gap-2 bg-green-500 text-white px-4 py-2 rounded-xl hover:bg-green-600 transition-colors"
+                className="flex items-center gap-2 bg-gradient-to-r from-pink-500 to-rose-500 text-white px-4 py-2 rounded-xl hover:from-pink-600 hover:to-rose-600 transition-all"
               >
                 <Phone className="w-4 h-4" />
                 <span className="hidden sm:inline">Call Us</span>
               </a>
               <a
                 href="https://wa.me/254719790026"
-                className="flex items-center gap-2 bg-gradient-to-r from-pink-500 to-rose-500 text-white px-4 py-2 rounded-xl hover:from-pink-600 hover:to-rose-600 transition-all"
+                className="flex items-center gap-2 bg-green-500 text-white px-4 py-2 rounded-xl hover:bg-green-600 transition-colors"
               >
                 <MessageCircle className="w-4 h-4" />
                 <span className="hidden sm:inline">WhatsApp</span>
@@ -1045,7 +1045,17 @@ const DaisyFloristWebsite = () => {
       </section>
 
       {/* Footer */}
+      
       <footer className="bg-gray-900 text-white py-8">
+        <div className="flex justify-center gap-6 mb-8">
+              <button
+                onClick={() => setIsCartOpen(true)}
+                className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-lg transition-colors flex items-center gap-2"
+              >
+                <ShoppingCart className="w-4 h-4" />
+                View Cart & Order
+              </button>
+            </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
@@ -1101,15 +1111,7 @@ const DaisyFloristWebsite = () => {
             <p className="text-gray-400">
               © 2025 Daisy Does It. All rights reserved. | Made with ❤️ in Kenya
             </p>
-            <div className="flex justify-center gap-6 mt-4">
-              <button
-                onClick={() => setIsCartOpen(true)}
-                className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-lg transition-colors flex items-center gap-2"
-              >
-                <ShoppingCart className="w-4 h-4" />
-                View Cart & Order
-              </button>
-            </div>
+            
           </div>
         </div>
       </footer>
