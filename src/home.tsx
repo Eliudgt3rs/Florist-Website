@@ -836,7 +836,7 @@ const DaisyFloristWebsite = () => {
                 <Leaf className="w-8 h-8 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
+                <h1 className="text-xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
                   Daisy Does It
                 </h1>
                 <p className="text-sm text-gray-600">
@@ -924,7 +924,7 @@ const DaisyFloristWebsite = () => {
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
             </div>
-            <div className="flex flex-wrap gap-2">
+            <div className="flex flex-wrap gap-1 space-x-3">
               {categories.map((category) => (
                 <button
                   key={category}
