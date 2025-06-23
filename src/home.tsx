@@ -295,12 +295,12 @@ const DaisyFloristWebsite = () => {
     {
       id: 1,
       name: "Red Roses",
-      price: 500,
+      price: 900,
       category: "Roses",
       description:
         "Classic red roses perfect for expressing love and passion. Fresh, fragrant, and beautifully arranged.",
       image:
-        "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=300&fit=crop",
+        "RedRoses.jpeg",
       rating: 5,
     },
     {
@@ -317,18 +317,18 @@ const DaisyFloristWebsite = () => {
     {
       id: 3,
       name: "Sunflowers",
-      price: 350,
+      price: 950,
       category: "Seasonal",
       description:
         "Bright, cheerful sunflowers that bring joy and warmth to any space. Symbol of happiness and optimism.",
       image:
-        "https://images.unsplash.com/photo-1597848212624-e4c01d70bf50?w=400&h=300&fit=crop",
+        "SunFlower.jpeg",
       rating: 4,
     },
     {
       id: 4,
       name: "Pink Tulips",
-      price: 600,
+      price: 900,
       category: "Tulips",
       description:
         "Delicate pink tulips representing affection and caring. Perfect for spring celebrations.",
@@ -344,24 +344,24 @@ const DaisyFloristWebsite = () => {
       description:
         "Exotic purple orchids representing luxury and strength. A sophisticated choice for special moments.",
       image:
-        "https://images.unsplash.com/photo-1545258684-2297f7fef281?w=400&h=300&fit=crop",
+        "PurpleOrchids.jpeg",
       rating: 5,
     },
     {
       id: 6,
       name: "Yellow Daisies",
-      price: 300,
+      price: 3000,
       category: "Daisies",
       description:
         "Fresh yellow daisies symbolizing new beginnings and loyal love. Bright and cheerful.",
       image:
-        "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?w=400&h=300&fit=crop",
+  "Yellow-Daisy-Bouquet.jpg",
       rating: 4,
     },
     {
       id: 7,
       name: "White Roses",
-      price: 550,
+      price: 3550,
       category: "Roses",
       description:
         "Pure white roses signifying new beginnings and true love. Elegant and timeless.",
@@ -372,45 +372,45 @@ const DaisyFloristWebsite = () => {
     {
       id: 8,
       name: "Mixed Carnations",
-      price: 400,
+      price: 4500,
       category: "Carnations",
       description:
         "Colorful carnations in mixed hues. Long-lasting flowers perfect for daily arrangements.",
       image:
-        "https://images.unsplash.com/photo-1564419320461-6870880221ad?w=400&h=300&fit=crop",
+        "MixedCarnations.jpeg",
       rating: 4,
     },
     {
       id: 9,
       name: "Blue Hydrangeas",
-      price: 900,
+      price: 2900,
       category: "Seasonal",
       description:
         "Beautiful blue hydrangeas representing heartfelt emotions and gratitude. Perfect for special occasions.",
       image:
-        "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=400&h=300&fit=crop",
+        "BlueHydrangeas.jpg",
       rating: 5,
     },
     {
       id: 10,
       name: "Orange Marigolds",
-      price: 250,
+      price: 1250,
       category: "Seasonal",
       description:
         "Vibrant orange marigolds bringing warmth and positive energy. Perfect for celebrations.",
       image:
-        "https://images.unsplash.com/photo-1599059813005-11265ba4b4ce?w=400&h=300&fit=crop",
+        "OrangeMarigolds.jpeg",
       rating: 4,
     },
     {
       id: 11,
       name: "Pink Roses",
-      price: 520,
+      price: 920,
       category: "Roses",
       description:
         "Soft pink roses expressing gratitude and appreciation. Delicate and romantic.",
       image:
-        "https://images.unsplash.com/photo-1551068818-d0fb21d0201a?w=400&h=300&fit=crop",
+        "PinkRoses.jpeg",
       rating: 5,
     },
     {
@@ -421,13 +421,13 @@ const DaisyFloristWebsite = () => {
       description:
         "Pure white orchids symbolizing elegance and beauty. A luxurious choice for any occasion.",
       image:
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+        "WhiteOrchids.jpeg",
       rating: 5,
     },
     {
       id: 13,
       name: "Red Tulips",
-      price: 580,
+      price: 2180,
       category: "Tulips",
       description:
         "Bold red tulips declaring deep love and passion. Perfect for romantic gestures.",
@@ -438,7 +438,7 @@ const DaisyFloristWebsite = () => {
     {
       id: 14,
       name: "Lavender",
-      price: 450,
+      price: 4000,
       category: "Herbs",
       description:
         "Fragrant lavender stems bringing calm and serenity. Perfect for relaxation and aromatherapy.",
@@ -449,111 +449,111 @@ const DaisyFloristWebsite = () => {
     {
       id: 15,
       name: "White Daisies",
-      price: 280,
+      price: 2800,
       category: "Daisies",
       description:
         "Classic white daisies representing innocence and purity. Simple yet beautiful.",
       image:
-        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop",
+        "OIP.jpeg",
       rating: 4,
     },
     {
       id: 16,
       name: "Purple Tulips",
-      price: 620,
+      price: 4000,
       category: "Tulips",
       description:
         "Rich purple tulips symbolizing royalty and elegance. A sophisticated choice.",
       image:
-        "https://images.unsplash.com/photo-1582849809949-ac654b4b4998?w=400&h=300&fit=crop",
+        "PurpleTulips.jpeg",
       rating: 5,
     },
     {
       id: 17,
       name: "Pink Carnations",
-      price: 380,
+      price: 4000,
       category: "Carnations",
       description:
         "Sweet pink carnations expressing gratitude and admiration. Long-lasting and fragrant.",
       image:
-        "https://images.unsplash.com/photo-1563993297290-609c9b5471f5?w=400&h=300&fit=crop",
+        "PinkCarnations.jpeg",
       rating: 4,
     },
     {
       id: 18,
       name: "Yellow Roses",
-      price: 480,
+      price: 4000,
       category: "Roses",
       description:
         "Bright yellow roses symbolizing friendship and joy. Perfect for celebrating special bonds.",
       image:
-        "https://images.unsplash.com/photo-1566288975050-c3a65ff71ddd?w=400&h=300&fit=crop",
+        "YellowRoses.jpg",
       rating: 4,
     },
     {
       id: 19,
       name: "Orange Lilies",
-      price: 750,
+      price: 2250,
       category: "Lilies",
       description:
         "Vibrant orange lilies representing confidence and pride. Bold and beautiful.",
       image:
-        "https://images.unsplash.com/photo-1617627143750-d86bc21e9491?w=400&h=300&fit=crop",
+        "OrangeLilies.jpeg",
       rating: 5,
     },
     {
       id: 20,
       name: "Baby's Breath",
-      price: 200,
+      price: 9000,
       category: "Fillers",
       description:
         "Delicate baby's breath perfect for adding texture and elegance to arrangements.",
       image:
-        "https://images.unsplash.com/photo-1576675784419-b7d8e9bf7ce1?w=400&h=300&fit=crop",
+        "Baby'sBreath.jpeg",
       rating: 4,
     },
     {
       id: 21,
       name: "Peach Roses",
-      price: 560,
+      price: 3000,
       category: "Roses",
       description:
         "Soft peach roses expressing appreciation and gratitude. Warm and inviting.",
       image:
-        "https://images.unsplash.com/photo-1567358574000-c4b3a70db055?w=400&h=300&fit=crop",
+        "PeachRoses.jpeg",
       rating: 5,
     },
     {
       id: 22,
       name: "Purple Irises",
-      price: 650,
+      price: 2000,
       category: "Seasonal",
       description:
         "Elegant purple irises symbolizing wisdom and valor. Perfect for meaningful occasions.",
       image:
-        "https://images.unsplash.com/photo-1594708767771-a7502209ff51?w=400&h=300&fit=crop",
+        "PurpleIrisesjpeg.jpeg",
       rating: 5,
     },
     {
       id: 23,
       name: "White Tulips",
-      price: 590,
+      price: 4000,
       category: "Tulips",
       description:
         "Pure white tulips representing forgiveness and new beginnings. Clean and elegant.",
       image:
-        "https://images.unsplash.com/photo-1520637836862-4d197d17c55a?w=400&h=300&fit=crop",
+        "WhiteTulips.jpg",
       rating: 5,
     },
     {
       id: 24,
       name: "Red Carnations",
-      price: 420,
+      price: 2000,
       category: "Carnations",
       description:
         "Bold red carnations expressing deep love and admiration. Classic and long-lasting.",
       image:
-        "https://images.unsplash.com/photo-1563714719-e4d7370d80d8?w=400&h=300&fit=crop",
+        "RedCarnations.jpeg",
       rating: 4,
     },
     {
@@ -564,40 +564,40 @@ const DaisyFloristWebsite = () => {
       description:
         "Delicate pink orchids representing femininity and grace. Luxurious and exotic.",
       image:
-        "https://images.unsplash.com/photo-1519431128685-4ce2f0e58cd5?w=400&h=300&fit=crop",
+        "PinkOrchids.jpeg",
       rating: 5,
     },
     {
       id: 26,
       name: "Eucalyptus",
-      price: 300,
+      price: 3000,
       category: "Greenery",
       description:
         "Fresh eucalyptus branches adding natural fragrance and texture to arrangements.",
       image:
-        "https://images.unsplash.com/photo-1535359043495-3aeddc2659f6?w=400&h=300&fit=crop",
+        "Eucalyptus.jpeg",
       rating: 4,
     },
     {
       id: 27,
       name: "Mixed Roses Bouquet",
-      price: 1200,
+      price: 4200,
       category: "Bouquets",
       description:
         "Beautiful mixed roses bouquet combining multiple colors for a stunning arrangement.",
       image:
-        "https://images.unsplash.com/photo-1485627941353-2725c4268242?w=400&h=300&fit=crop",
+        "MixedRosesBouquet.jpeg",
       rating: 5,
     },
     {
       id: 28,
       name: "Purple Lavender",
-      price: 400,
+      price: 4900,
       category: "Herbs",
       description:
         "Aromatic purple lavender stems perfect for relaxation and natural fragrance.",
       image:
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop",
+        "PurpleLavender.jpeg",
       rating: 4,
     },
     {
@@ -608,7 +608,7 @@ const DaisyFloristWebsite = () => {
       description:
         "Soft pink lilies representing prosperity and abundance. Elegant and fragrant.",
       image:
-        "https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?w=400&h=300&fit=crop",
+        "PinkLilies.jpeg",
       rating: 5,
     },
     {
@@ -625,34 +625,34 @@ const DaisyFloristWebsite = () => {
     {
       id: 31,
       name: "White Carnations",
-      price: 360,
+      price: 790,
       category: "Carnations",
       description:
         "Pure white carnations symbolizing pure love and good luck. Classic and elegant.",
       image:
-        "https://images.unsplash.com/photo-1564048292-0d1f93e4ce3e?w=400&h=300&fit=crop",
+        "WhiteCarnations.jpeg",
       rating: 4,
     },
     {
       id: 32,
       name: "Orange Roses",
-      price: 540,
+      price: 2000,
       category: "Roses",
       description:
         "Vibrant orange roses expressing enthusiasm and desire. Bold and passionate.",
       image:
-        "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=300&fit=crop",
+        "OrangeRoses.jpeg",
       rating: 5,
     },
     {
       id: 33,
       name: "Blue Delphiniums",
-      price: 700,
+      price: 2100,
       category: "Seasonal",
       description:
         "Tall blue delphiniums representing big-hearted nature and fun. Perfect for height in arrangements.",
       image:
-        "https://images.unsplash.com/photo-1525623427687-6135de090016?w=400&h=300&fit=crop",
+        "BlueDelphiniums.jpeg",
       rating: 5,
     },
     {
@@ -663,7 +663,7 @@ const DaisyFloristWebsite = () => {
       description:
         "Lush pink peonies symbolizing romance, prosperity, and good fortune. Luxurious and full.",
       image:
-        "https://images.unsplash.com/photo-1529067678746-cf625ea5e146?w=400&h=300&fit=crop",
+        "PinkPeonies.jpg",
       rating: 5,
     },
     {
@@ -674,7 +674,7 @@ const DaisyFloristWebsite = () => {
       description:
         "Elegant white peonies representing honor and wealth. Perfect for sophisticated arrangements.",
       image:
-        "https://images.unsplash.com/photo-1595619942668-eabfb53b3a5f?w=400&h=300&fit=crop",
+        "WhitePeonies.jpeg",
       rating: 5,
     },
     {
@@ -685,51 +685,51 @@ const DaisyFloristWebsite = () => {
       description:
         "Unique purple roses symbolizing enchantment and love at first sight. Rare and beautiful.",
       image:
-        "https://images.unsplash.com/photo-1582726675998-e3f7040aa863?w=400&h=300&fit=crop",
+        "PurpleRoses.jpeg",
       rating: 5,
     },
     {
       id: 37,
       name: "Gerbera Daisies",
-      price: 450,
+      price: 6000,
       category: "Daisies",
       description:
         "Colorful gerbera daisies representing cheerfulness and innocence. Bright and cheerful.",
       image:
-        "https://images.unsplash.com/photo-1514991669-71be3921fd96?w=400&h=300&fit=crop",
+        "GerberaDaisies.jpeg",
       rating: 4,
     },
     {
       id: 38,
       name: "Chrysanthemums",
-      price: 380,
+      price: 2000,
       category: "Seasonal",
       description:
         "Beautiful chrysanthemums symbolizing optimism and joy. Perfect for autumn arrangements.",
       image:
-        "https://images.unsplash.com/photo-1569119670759-0e6bdccdfdc0?w=400&h=300&fit=crop",
+        "Chrysanthemums.jpeg",
       rating: 4,
     },
     {
       id: 39,
       name: "Bird of Paradise",
-      price: 1500,
+      price: 15000,
       category: "Exotic",
       description:
         "Exotic bird of paradise flowers representing magnificence and wonderful anticipation.",
       image:
-        "https://images.unsplash.com/photo-1555230242-7ad8b3b0e24e?w=400&h=300&fit=crop",
+        "BirdofParadise.jpeg",
       rating: 5,
     },
     {
       id: 40,
       name: "Anthurium",
-      price: 850,
+      price: 1500,
       category: "Exotic",
       description:
         "Glossy anthurium flowers symbolizing hospitality and abundance. Modern and tropical.",
       image:
-        "https://images.unsplash.com/photo-1578928019304-77e7b5ad5e7c?w=400&h=300&fit=crop",
+        "Anthurium.jpeg",
       rating: 5,
     },
   ];
@@ -817,7 +817,7 @@ const DaisyFloristWebsite = () => {
     );
 
     const message = `Hi! I'd like to order the following flowers:\n\n${orderDetails}\n\nTotal: KSh ${totalOrderPrice}\n\nPlease let me know about availability and delivery options.`;
-    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/254719790026?text=${encodeURIComponent(
       message
     )}`;
     window.open(whatsappUrl, "_blank");
@@ -846,14 +846,14 @@ const DaisyFloristWebsite = () => {
             </div>
             <div className="flex items-center gap-4">
               <a
-                href="tel:+254700000000"
+                href="tel:+254719790026"
                 className="flex items-center gap-2 bg-green-500 text-white px-4 py-2 rounded-xl hover:bg-green-600 transition-colors"
               >
                 <Phone className="w-4 h-4" />
                 <span className="hidden sm:inline">Call Us</span>
               </a>
               <a
-                href="https://wa.me/254700000000"
+                href="https://wa.me/254719790026"
                 className="flex items-center gap-2 bg-gradient-to-r from-pink-500 to-rose-500 text-white px-4 py-2 rounded-xl hover:from-pink-600 hover:to-rose-600 transition-all"
               >
                 <MessageCircle className="w-4 h-4" />
@@ -880,12 +880,12 @@ const DaisyFloristWebsite = () => {
 
       {/* Hero Section */}
       <section
-        className={`relative py-20 transition-all duration-1000 ${
+        className={`relative py-8 transition-all duration-1000 ${
           isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
         }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-pink-600 via-rose-500 to-orange-500 bg-clip-text text-transparent">
+          <h2 className="text-5xl md:text-6xl font-bold mb-2 bg-gradient-to-r from-pink-600 via-rose-500 to-orange-500 bg-clip-text text-transparent">
             Beautiful Flowers for Every Occasion
           </h2>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
@@ -911,7 +911,7 @@ const DaisyFloristWebsite = () => {
       </section>
 
       {/* Search and Filter */}
-      <section className="py-8 bg-white/50">
+      <section className=" bg-white/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col lg:flex-row gap-6 items-center justify-between">
             <div className="relative flex-1 max-w-md">
@@ -919,7 +919,7 @@ const DaisyFloristWebsite = () => {
               <input
                 type="text"
                 placeholder="Search flowers..."
-                className="w-full pl-10 pr-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-pink-500 focus:border-transparent"
+                className="w-full pl-10 pr-4 py-3 border border-gray-200 rounded-4xl focus:ring-2 focus:ring-pink-500 focus:border-transparent"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
@@ -944,7 +944,7 @@ const DaisyFloristWebsite = () => {
       </section>
 
       {/* Flower Catalogue */}
-      <section id="flower-section" className="py-16">
+      <section id="flower-section" className="py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h3 className="text-4xl font-bold text-gray-900 mb-4">
@@ -994,9 +994,9 @@ const DaisyFloristWebsite = () => {
       </section>
 
       {/* How to Order */}
-      <section className="py-16 bg-gradient-to-r from-pink-500 to-rose-500 text-white">
+      <section className="py-8 bg-gradient-to-r from-pink-500 to-rose-500 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
+          <div className="text-center mb-2">
             <h3 className="text-4xl font-bold mb-4">How to Order</h3>
             <p className="text-lg opacity-90">
               Simple steps to get your beautiful flowers delivered
@@ -1045,7 +1045,7 @@ const DaisyFloristWebsite = () => {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12">
+      <footer className="bg-gray-900 text-white py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
@@ -1067,7 +1067,7 @@ const DaisyFloristWebsite = () => {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <Phone className="w-5 h-5 text-pink-400" />
-                  <span className="text-gray-300">+254 700 000 000</span>
+                  <span className="text-gray-300">+254 719 790 026</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <MessageCircle className="w-5 h-5 text-pink-400" />
@@ -1092,7 +1092,6 @@ const DaisyFloristWebsite = () => {
                 <li>• Corporate Arrangements</li>
                 <li>• Same Day Delivery</li>
                 <li>• Custom Bouquets</li>
-                <li>• M-Pesa Payment</li>
                 <li>• WhatsApp Ordering</li>
               </ul>
             </div>
